@@ -49,13 +49,13 @@
 # SOCIAL MEDIA:
 
 <div style="display: flex; gap: 3%;">
-  <div><a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloOlagoke | LinkedIn" style="width: 30px; height: 50px;"></a></div>
+  <div><a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloIntegratedOps | LinkedIn" style="width: 30px; height: 50px;"></a></div>
 
-  <div><a href="https://twitter.com/holo_secure_ops"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloOlagoke | Twitter" style="width: 30px; height: 50px;"></a></div>
+  <div><a href="https://twitter.com/holo_secure_ops"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloIntegratedOps | Twitter" style="width: 30px; height: 50px;"></a></div>
 
-  <div><a href="https://www.instagram.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloOlagoke | Instagram" style="width: 30px; height: 50px;"></a></div>
+  <div><a href="https://www.instagram.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloIntegratedOps | Instagram" style="width: 30px; height: 50px;"></a></div>
 
-  <div><a href="https://web.facebook.com/holo.olagoke.integrated.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="HoloOlagoke | Facebook" style="width: 30px; height: 50px;"></a></div>
+  <div><a href="https://web.facebook.com/holo.integrated.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="HoloIntegratedOps | Facebook" style="width: 30px; height: 50px;"></a></div>
 
   <!-- <div><a href="https://web.facebook.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" alt="HoloOlagoke | Tiktok" style="width: 30px; height: 50px;"></a></div> -->
 </div>
